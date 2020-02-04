@@ -1,2 +1,2 @@
 # Mandachord
-Musical notation to Mandachord translator
+Musical notation to Mandachord translator for Warframe
